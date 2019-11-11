@@ -61,6 +61,8 @@ public class ClickOnNext {
 			System.out.println(ele.getText());
 
 		}
+		
+		System.out.println("Just to Check");
 
 	}
 
